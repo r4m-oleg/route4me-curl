@@ -1,6 +1,6 @@
 #!/bin/bash
 
-host=https://api.broono.com
+host=https://api.route4me.com
 endpoint=/api.v4/optimization_problem.php
 apikey=11111111111111111111111111111111
 
